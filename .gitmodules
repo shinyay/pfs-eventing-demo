@@ -1,0 +1,3 @@
+[submodule "pfs-eventing-powerof2"]
+	path = pfs-eventing-powerof2
+	url = https://github.com/shinyay/pfs-eventing-powerof2.git
