@@ -1,3 +1,6 @@
 [submodule "pfs-eventing-powerof2"]
 	path = pfs-eventing-powerof2
 	url = https://github.com/shinyay/pfs-eventing-powerof2.git
+[submodule "pfs-java-hello"]
+	path = pfs-java-hello
+	url = https://github.com/shinyay/pfs-java-hello.git
