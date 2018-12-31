@@ -4,3 +4,6 @@
 [submodule "pfs-java-hello"]
 	path = pfs-java-hello
 	url = https://github.com/shinyay/pfs-java-hello.git
+[submodule "pfs-eventing-random"]
+	path = pfs-eventing-random
+	url = https://github.com/shinyay/pfs-eventing-random.git
