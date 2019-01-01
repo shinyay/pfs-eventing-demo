@@ -8,3 +8,5 @@ pfs function create hello \
              --handler io.pivotal.syanagihara.functions.Hello \
              --image $REGISTRY/$REGISTRY_USER/hello \
              --verbose
+
+pfs service list
