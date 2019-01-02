@@ -2,3 +2,5 @@
 
 pfs channel create numbers \
              --cluster-bus stub
+
+pfs channel list
